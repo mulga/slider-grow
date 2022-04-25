@@ -48,6 +48,9 @@ img {
 
 .container {
   max-width: 900px;
+  height: 100vh;
+  display: grid;
+  place-items: center;
   margin: 0 auto;
   padding: 0 20px;
 }
